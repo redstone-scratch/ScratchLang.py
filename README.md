@@ -7,6 +7,8 @@ This is for people who want to use Scratch like other programming languages.
 
 # Changes from upstream
 - Made in Python
+- allows for whitespace
+- semicolons are only optional
 - ...thats it
 
 The remainder of this README is just copied over from upstream.
